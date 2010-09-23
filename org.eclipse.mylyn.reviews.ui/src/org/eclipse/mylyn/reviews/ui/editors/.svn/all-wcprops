@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors
+END
+ReviewSummaryTaskEditorPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/ReviewSummaryTaskEditorPart.java
+END
+TableLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/TableLabelProvider.java
+END
+CreateReviewTaskEditorPageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/CreateReviewTaskEditorPageFactory.java
+END
+CreateReviewTaskEditorPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/CreateReviewTaskEditorPart.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/Messages.java
+END
+ReviewEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/ReviewEditor.java
+END
+ReviewTaskEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/ReviewTaskEditorInput.java
+END
+CreateReviewTaskEditorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/CreateReviewTaskEditorPage.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/messages.properties
+END
+ReviewTaskEditorPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnprojects/mylyn/!svn/ver/55/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/ReviewTaskEditorPart.java
+END
+ReviewSubmitHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/ReviewSubmitHandler.java
+END
+EditorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/EditorSupport.java
+END
+NewReviewTaskEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/NewReviewTaskEditorInput.java
+END
+ReviewTaskEditorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/ReviewTaskEditorPage.java
+END
+NewReviewSubmitHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/NewReviewSubmitHandler.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnprojects/mylyn/!svn/ver/28/trunk/org.eclipse.mylyn.reviews.subclipse/src/org/eclipse/mylyn/reviews/subclipse/util
+END
+SVNUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnprojects/mylyn/!svn/ver/28/trunk/org.eclipse.mylyn.reviews.subclipse/src/org/eclipse/mylyn/reviews/subclipse/util/SVNUtil.java
+END
+SubclipseMetadataUpdaterJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnprojects/mylyn/!svn/ver/28/trunk/org.eclipse.mylyn.reviews.subclipse/src/org/eclipse/mylyn/reviews/subclipse/util/SubclipseMetadataUpdaterJob.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnprojects/mylyn/!svn/ver/28/trunk/org.eclipse.mylyn.reviews.subclipse/src/org/eclipse/mylyn/reviews/subclipse/util/Parser.java
+END

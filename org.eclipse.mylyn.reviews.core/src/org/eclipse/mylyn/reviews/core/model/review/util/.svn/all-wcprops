@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/util
+END
+ReviewSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/util/ReviewSwitch.java
+END
+ReviewAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/util/ReviewAdapterFactory.java
+END

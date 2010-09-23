@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.mylyn.reviews.core.scmadapter">
+      <scmconnector
+            class="org.eclipse.mylyn.reviews.subclipse.SVNAdapter">
+      </scmconnector>
+   </extension>
+
+</plugin>

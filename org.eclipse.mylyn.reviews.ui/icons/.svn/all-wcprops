@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons
+END
+reviews16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/reviews16.gif
+END
+review_none.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/review_none.png
+END
+review_passed.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/review_passed.png
+END
+review_failed.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/review_failed.png
+END
+review_warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/review_warning.png
+END
+reviews32.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/reviews32.gif
+END
+reviews24.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnprojects/mylyn/!svn/ver/7/trunk/org.eclipse.mylyn.reviews.ui/icons/reviews24.gif
+END

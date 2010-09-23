@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnprojects/mylyn/!svn/ver/29/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core
+END
+ITargetPathStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/ITargetPathStrategy.java
+END
+ReviewsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnprojects/mylyn/!svn/ver/29/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/ReviewsUtil.java
+END
+SimplePathFindingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/SimplePathFindingStrategy.java
+END
+ReviewsCorePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/ReviewsCorePlugin.java
+END
+ReviewConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/ReviewConstants.java
+END
+ReviewSubTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/ReviewSubTask.java
+END

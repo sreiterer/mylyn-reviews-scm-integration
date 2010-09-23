@@ -1,0 +1,8 @@
+CreateTask_Success=Successfully created task
+CreateTask_Title=Creating new Mylyn Reviews task
+CreateTask_UploadingAttachment=Uploading attachment
+PatchCreator_ReaderCreationFailed=ReviewPatchFile.createReader failed
+ReviewCommentTaskAttachmentSource_Description=Mylyn Review Result
+ReviewTaskEditorPageFactory_PageTitle=Reviews
+
+UpdateReviewTask_Title=Update review data

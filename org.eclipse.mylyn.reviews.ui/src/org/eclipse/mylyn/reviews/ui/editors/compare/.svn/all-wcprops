@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare
+END
+ViewMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare/ViewMode.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnprojects/mylyn/!svn/ver/25/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare/messages.properties
+END
+RevisionCompareInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnprojects/mylyn/!svn/ver/55/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare/RevisionCompareInput.java
+END
+ChangesetCompareItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare/ChangesetCompareItem.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare/Messages.java
+END
+RevisionCompareEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnprojects/mylyn/!svn/ver/38/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/compare/RevisionCompareEditorInput.java
+END

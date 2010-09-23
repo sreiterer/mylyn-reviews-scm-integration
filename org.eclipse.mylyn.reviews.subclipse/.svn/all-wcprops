@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnprojects/mylyn/!svn/ver/28/trunk/org.eclipse.mylyn.reviews.subclipse
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnprojects/mylyn/!svn/ver/10/trunk/org.eclipse.mylyn.reviews.subclipse/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnprojects/mylyn/!svn/ver/10/trunk/org.eclipse.mylyn.reviews.subclipse/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnprojects/mylyn/!svn/ver/5/trunk/org.eclipse.mylyn.reviews.subclipse/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnprojects/mylyn/!svn/ver/5/trunk/org.eclipse.mylyn.reviews.subclipse/plugin.xml
+END

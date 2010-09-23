@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/validators
+END
+ReassignChangesetInputValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/validators/ReassignChangesetInputValidator.java
+END
+ReporterInputValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnprojects/mylyn/!svn/ver/55/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/editors/validators/ReporterInputValidator.java
+END

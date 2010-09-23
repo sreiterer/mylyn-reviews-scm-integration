@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl
+END
+ReviewPackageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/ReviewPackageImpl.java
+END
+PatchImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/PatchImpl.java
+END
+ReviewResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/ReviewResultImpl.java
+END
+ChangesetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/ChangesetImpl.java
+END
+ReviewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/ReviewImpl.java
+END
+ScopeItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/ScopeItemImpl.java
+END
+ReviewFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/model/review/impl/ReviewFactoryImpl.java
+END

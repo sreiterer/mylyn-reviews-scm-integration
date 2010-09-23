@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnprojects/mylyn/!svn/ver/24/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm
+END
+SCMAdapterNotAvailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/SCMAdapterNotAvailableException.java
+END
+IRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/IRevision.java
+END
+TaskMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnprojects/mylyn/!svn/ver/22/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/TaskMapper.java
+END
+IChangeset.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/IChangeset.java
+END
+AdapterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnprojects/mylyn/!svn/ver/14/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/AdapterManager.java
+END
+ISCMAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnprojects/mylyn/!svn/ver/22/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/ISCMAdapter.java
+END

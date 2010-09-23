@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs
+END
+CreateReviewForChangesetsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnprojects/mylyn/!svn/ver/57/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs/CreateReviewForChangesetsDialog.java
+END
+SIContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs/SIContentProvider.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnprojects/mylyn/!svn/ver/47/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs/messages.properties
+END
+SILabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs/SILabelProvider.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs/Messages.java
+END
+FindReviewerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnprojects/mylyn/!svn/ver/58/trunk/org.eclipse.mylyn.reviews.ui/src/org/eclipse/mylyn/reviews/ui/dialogs/FindReviewerDialog.java
+END

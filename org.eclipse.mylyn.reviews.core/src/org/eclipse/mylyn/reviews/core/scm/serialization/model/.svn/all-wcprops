@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnprojects/mylyn/!svn/ver/14/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model
+END
+ChangesetMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/ChangesetMap.java
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/File.java
+END
+Changeset.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnprojects/mylyn/!svn/ver/14/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/Changeset.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/Task.java
+END
+ModificationOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/ModificationOperation.java
+END
+MappingsMapAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/MappingsMapAdaptor.java
+END
+Tupel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/Tupel.java
+END
+ChangesetMapAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/ChangesetMapAdaptor.java
+END
+ChangesetTupel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/ChangesetTupel.java
+END
+MappingsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/MappingsMap.java
+END
+Mappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/Mappings.java
+END
+Revision.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnprojects/mylyn/!svn/ver/3/trunk/org.eclipse.mylyn.reviews.core/src/org/eclipse/mylyn/reviews/core/scm/serialization/model/Revision.java
+END

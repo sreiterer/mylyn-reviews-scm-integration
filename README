@@ -1,0 +1,3 @@
+The project org.eclipse.mylyn.reviews.subclipse manages the communication with the underlying svn system.
+- commit messages will be parsed
+- task-changeset mapping information is stored for each svn repository (locally)
